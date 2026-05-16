@@ -56,8 +56,6 @@ This repository contains lecture-wise Python programs with simple, intermediate,
 - Abstraction
 - Decorators
 - Class Methods
-- Static Methods
 - Magic/Dunder Methods
 - Property Decorators
-- Getters & Setters
-
+- 
