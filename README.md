@@ -56,6 +56,3 @@ This repository contains lecture-wise Python programs with simple, intermediate,
 - Abstraction
 - Decorators
 - Class Methods
-- Magic/Dunder Methods
-- Property Decorators
-- 
